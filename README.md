@@ -4,7 +4,7 @@
 
 ---
 🌱 **Currently Learning**:
-- CS Fundamentals @ Phitron
+- CS Fundamentals @ [Phitron](https://www.phitron.io)
   - Introduction to C Programming
   - C++ for Data Structures and Algorithms
   - Basic Data Structures (Currently focusing on this)
