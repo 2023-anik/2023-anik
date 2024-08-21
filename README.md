@@ -26,7 +26,7 @@
 
 ---
 
-![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=2023-anik&show_icons=true&theme=radical)
+<!-- ![Anik's GitHub stats](https://github-readme-stats.vercel.app/api?username=2023-anik&show_icons=true&theme=radical) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2023-anik&layout=compact&theme=radical)
 
 ---
