@@ -1,10 +1,14 @@
-### Hi there 👋, I'm Anik
+<div align="center">
 
-🔒 **CyberSec Enthusiast** | 🎓 **Aspiring Ethical Hacker**
+## Hi there 👋, I'm Anik
 
----
-🌱 **Currently Learning**:
-- CS Fundamentals @ [Phitron](https://www.phitron.io)
+<p style="font-size: 24px; color: #00ff00;">
+  🔒 CyberSec Enthusiast | 🛡️ Aspiring Ethical Hacker
+</p>
+
+🌱 **Currently Learning:**
+
+- **CS Fundamentals @ [Phitron](https://www.phitron.io)**
   - Introduction to C Programming
   - C++ for Data Structures and Algorithms
   - Basic Data Structures (Currently focusing on this)
@@ -13,16 +17,18 @@
   - Database (MySQL) and Backend REST API Development
   - Software Development Professional Projects
 
-📂 **My Code Archive**:
+📂 **My Code Archive:**
+
 - All my code from Phitron courses is stored in my repository: [MyCodeArchive](https://github.com/2023-anik/MyCodeArchive).
 
-🎨 **Also Exploring**:
-- **Web Design Basics**: HTML, CSS, JavaScript
-- **Linux & Networking**: Building a strong foundation
+🎨 **Also Exploring:**
 
-🚀 **Future Goals**:
+- **Web Design Basics:** HTML, CSS, JavaScript
+- **Linux & Networking:** Building a strong foundation
+
+🎯 **Future Goals:**
+
 - After completing my current studies, I'll dive into **Ethical Hacking** preparation.
-
 
 ---
 
@@ -32,5 +38,7 @@
 ---
 
 💻 **Connect with Me**:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord-invite)
+
+</div>
