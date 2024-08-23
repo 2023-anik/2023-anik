@@ -2,9 +2,11 @@
 
 ## Hi there 👋, I'm Anik
 
-<p style="font-size: 24px; color: #00ff00;">
+<span>
   🔒 CyberSec Enthusiast | 🛡️ Aspiring Ethical Hacker
-</p>
+</span>
+
+---
 
 🌱 **Currently Learning:**
 
